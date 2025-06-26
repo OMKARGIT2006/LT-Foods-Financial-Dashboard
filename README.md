@@ -90,8 +90,7 @@ Better Decisions: Use financial history to plan ahead
 
 📁 What’s Included
 
-LT-Foods-Financial-Dashboard.pbix – Power BI file
+New Financial Dashboard.pbix – Power BI file
 
-LT-Foods-Financial-Report.pdf – Summary insights
+dashboard-screenshot/ – Key visual:  https://github.com/OMKARGIT2006/LT-Foods-Financial-Dashboard/blob/main/L%20T%20Foods%20Financial%20Analysis%20Dashboard.png
 
-dashboard-screenshots/ – Key visual
