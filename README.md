@@ -92,5 +92,6 @@ Better Decisions: Use financial history to plan ahead
 
 New Financial Dashboard.pbix – Power BI file
 
-dashboard-screenshot/ – Key visual:  https://github.com/OMKARGIT2006/LT-Foods-Financial-Dashboard/blob/main/L%20T%20Foods%20Financial%20Analysis%20Dashboard.png
+dashboard-screenshot/ – Key visual:  (https://github.com/OMKARGIT2006/LT-Foods-Financial-Dashboard/blob/main/L%20T%20Foods%20Financial%20Analysis%20Dashboard.png)
+
 
