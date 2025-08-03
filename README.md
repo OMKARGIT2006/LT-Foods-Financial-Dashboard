@@ -1,95 +1,149 @@
-📊 LT Foods Financial Dashboard
-An interactive Power BI report that analyzes LT Foods Pvt Ltd’s financial performance from 2014 to 2025. It gives a clear picture of the company’s revenue growth, profitability, cost structure, asset distribution, and contributions by segment and geography.
+Great! Here's a **professional and structured README** for your **LT Foods Financial Dashboard**, modeled on the style you like:
 
-🔍 Short Description / Purpose
-This dashboard helps users explore LT Foods’ financial journey—tracking key metrics like sales, EBITDA, PAT, and market segmentation. It's designed for analysts, stakeholders, and students who want a real-world example of financial reporting and decision-making.
+---
 
-🛠️ Tech Stack
-Built using:
+# 📊 LT Foods Financial Dashboard
 
-📊 Power BI Desktop – For interactive visual reports
+An interactive Power BI dashboard analyzing the financial performance of **LT Foods Pvt. Ltd.** from 2014 to 2025. This dashboard offers a comprehensive view of revenue, profitability, cost structure, asset health, and performance by product segment and geography.
 
-🧼 Power Query – For cleaning and shaping the data
+---
 
-🧠 DAX – For key financial metrics like EBITDA %, PAT %, CAGR, etc.
+## 📌 Table of Contents
 
-🧱 Data Modeling – To connect P&L elements, segments, and regions
+* [Overview](#overview)
+* [Business Problem](#business-problem)
+* [Dataset](#dataset)
+* [Tools & Technologies](#tools--technologies)
+* [Project Structure](#project-structure)
+* [Key Features](#key-features)
+* [Dashboard Insights](#dashboard-insights)
+* [How to Use](#how-to-use)
+* [Business Impact](#business-impact)
+* [Author & Contact](#author--contact)
 
-📁 File Formats – .pbix for the dashboard, .pdf/.docx for reports
+---
 
-📂 Data Source
-Covers LT Foods' financials (2014–2025), including:
+## 🔍 Overview
 
-Revenue, COGS, EBITDA, PAT
+This project visualizes **LT Foods’** financial trajectory over 12 years, helping stakeholders track revenue growth, cost trends, segment performance, and geographic contributions. It serves as a reference for financial analysts, students, and decision-makers interested in real-world financial reporting and forecasting.
 
-Segment data: Basmati, Organic, RTE
+---
 
-Regional data: India, Europe, North America, Rest of World
+## 🧩 Business Problem
 
-Full P&L: Expenses, Interest, Depreciation, Tax, Net Profit
+Stakeholders need a centralized and visual platform to:
 
-🚀 Features / Highlights
-• Business Problem
-Stakeholders need a clear, visual way to understand LT Foods’ financial progress and guide strategic decisions.
+* Track growth and profitability trends
+* Monitor revenue contribution by product segment and region
+* Understand cost structure and asset allocation
+* Make informed strategic decisions based on historical performance
 
-• Dashboard Goals
-Track revenue, profit, and costs over time
+---
 
-Break down revenue and PAT by segment and geography
+## 📂 Dataset
 
-Show asset and equity trends
+The dataset includes LT Foods' complete financials from **2014 to 2025**, such as:
 
-Make financial data easy to understand visually
+* 📈 Revenue, COGS, EBITDA, PAT
+* 🛒 Segment Data: Basmati, Organic, RTE
+* 🌍 Regional Data: India, Europe, North America, Rest of World
+* 📊 Full Profit & Loss: Expenses, Depreciation, Tax, Net Profit
+* 💰 Asset Distribution, Equity Trends, and Liabilities
 
-🔑 Key Visuals
-Top KPIs (2025)
-Sales: ₹56.57K Cr (+18.13%)
+---
 
-COGS: ₹40.72K Cr (+16.37%)
+## 🛠️ Tools & Technologies
 
-EBITDA: ₹6.09K Cr (+18.58%)
+* **Power BI Desktop** – for dynamic visual reporting
+* **Power Query** – for data cleaning and transformation
+* **DAX** – for calculated financial metrics (EBITDA %, PAT %, CAGR, etc.)
+* **Data Modeling** – relationships across financial components, regions, and segments
+* **File Formats** – `.pbix`, `.pdf`, `.docx`
 
-PAT: ₹3.08K Cr (+24.64%)
+---
 
-Net Profit Margin: 5.4%
+## 📁 Project Structure
 
-Trends Over Time
-Sales & PAT growth (2014–2025)
+```
+lt-foods-financial-dashboard/
+│
+├── README.md
+├── dashboard-screenshot.png
+├── New Financial Dashboard.pbix
+├── LT-Foods-Financial-Report.pdf
+└── documentation/
+    └── Executive-Summary.docx
+```
 
-Cost and expense tracking
+---
 
-Gross Profit vs EBITDA vs PAT
+## 🚀 Key Features
 
-Segment Breakdown
-Revenue: Basmati (89.41%), Organic (10.28%), RTE (negligible)
+* 📊 **Top KPIs** (2025):
 
-PAT: Split evenly across segments (33.33% each), showing balanced profitability
+  * Sales: ₹56.57K Cr (+18.13%)
+  * COGS: ₹40.72K Cr (+16.37%)
+  * EBITDA: ₹6.09K Cr (+18.58%)
+  * PAT: ₹3.08K Cr (+24.64%)
+  * Net Profit Margin: 5.4%
 
-Geographic Performance
-India: 39%
+* 🔁 **Trends Over Time**:
 
-Europe: 31%
+  * Sales, COGS, EBITDA, PAT from 2014 to 2025
+  * Gross Profit vs EBITDA vs PAT
 
-Rest of World: 17%
+* 🧠 **Segment Breakdown**:
 
-North America: 13%
+  * Revenue: Basmati (89.41%), Organic (10.28%), RTE (negligible)
+  * PAT distributed evenly across segments
 
-Asset & Equity Insights
-Equity rose from 52.8% to 75.35%
+* 🌎 **Geographic Performance**:
 
-Current Assets = 88.74% of total in 2025 → strong liquidity
+  * India: 39%
+  * Europe: 31%
+  * Rest of World: 17%
+  * North America: 13%
 
-💡 Business Impact
-Clarity: Communicate growth and performance with visuals
+* 📈 **Equity & Assets**:
 
-Focus: Spot top-performing regions and products
+  * Equity improved from 52.8% to 75.35%
+  * Current assets = 88.74% of total (2025)
 
-Health Check: See improvements in equity and reduced liabilities
+---
 
-Better Decisions: Use financial history to plan ahead
+## 📈 Dashboard Insights
 
-📁 What’s Included
+* **Track Growth**: Revenue, profit, and expense trends
+* **Segment Analysis**: Understand key product lines
+* **Geographic View**: Regional contribution to sales and profit
+* **Health Check**: Equity growth and cost reduction visualized
 
-New Financial Dashboard.pbix – Power BI file
+---
 
-dashboard-screenshot/ – Key visual: ![image](https://github.com/user-attachments/assets/ec3b1dc9-f89f-4a06-9e89-b3ffa7a3fe4f)
+## 💼 How to Use
+
+1. Open `New Financial Dashboard.pbix` in Power BI Desktop
+2. Navigate between pages for segment, regional, and P\&L insights
+3. Use slicers to filter by year, segment, or region
+4. Export to `.pdf` or `.pptx` for reporting
+
+---
+
+## 💡 Business Impact
+
+* **Clarity**: Communicates financial health to stakeholders
+* **Focus**: Identifies top-performing products and regions
+* **Health Check**: Reveals liquidity and equity improvements
+* **Decision Support**: Enables strategic planning using visual storytelling
+
+---
+
+## 👤 Author & Contact
+
+**Omkar**
+Data Analyst | Power BI Enthusiast
+📫 \[Your Email / LinkedIn / GitHub]
+
+---
+
+Would you like a **PDF version** of this README or help with GitHub formatting or publishing it?
