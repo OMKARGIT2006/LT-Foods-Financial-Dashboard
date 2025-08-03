@@ -59,7 +59,7 @@ _ _ _
   - Bulk Purchase Savings
   - Performance Heatmaps
 
-![Finance Dashboard](images/dashboard.png)
+![Finance Dashboard](finance Dashboard.png)
 
 
 
