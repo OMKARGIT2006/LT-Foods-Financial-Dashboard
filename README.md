@@ -4,6 +4,19 @@ _An interactive Power BI dashboard analyzing the financial performance of LT Foo
 _ _ _
 
 
+## 📌 Table of Contents
+- <a href="#overview">Overview</a>
+- <a href="#business-problem">Business Problem</a>
+- <a href="#dataset">Dataset</a>
+- <a href="#tools--technologies">Tools & Technologies</a>
+- <a href="#Key-Matrics">Key Matrics</a>
+- <a href="#dashboard">Dashboard</a>
+- <a href="#Final-Recommendations">Final-Recommendations</a>
+- <a href="#author--contact">Author & Contact</a>
+
+---
+
+
 
 <h2><a class="anchor" id="overview"></a>Overview</h2>
 The LT Foods Financial Dashboard is an interactive Power BI report analyzing the company’s financial performance from 2014 to 2025. It visualizes key metrics like revenue, EBITDA, PAT, and cost trends, while breaking down performance by product segment and region. Designed for stakeholders and analysts, the dashboard provides clear insights into business growth, profitability, and financial health to support strategic decision-making.
@@ -30,7 +43,7 @@ _ _ _
 
 
 
-<h2><a class="anchor" id="tools--technologies"></a>Tools & Technologies</h2>
+<h2><a class="anchor" id="tools-technologies"></a>Tools & Technologies</h2>
 
 - Power BI Desktop – to design and build interactive dashboards
 - Power Query – for cleaning and transforming raw financial data
@@ -54,15 +67,16 @@ _ _ _
 <h2><a class="anchor" id="dashboard"></a>Dashboard</h2>
 
 - Power BI Dashboard shows
-  - Vendor-wise Sales and Margins
-  - Inventory Turnover
-  - Bulk Purchase Savings
-  - Performance Heatmaps
+  - Summary
+  - Financial Highlight
+  - Contribution 
+  - Income Statement
+  - Income Analysis
 
 ![Finance Dashboard](finance_Dashboard.png)
 
 
-
+_ _ _
 
 <h2><a class="anchor" id="Final-Recommendations"></a>Final Recommendations</h2>
 
@@ -72,5 +86,16 @@ Final Recommendations
 - Prioritize regions like India and Europe, which contribute the most to revenue and profit.
 - Monitor equity and assets closely to maintain financial health and liquidity.
 - Use visuals for reporting to communicate performance clearly with stakeholders and investors.
+
+_ _ _
+
+
+<h2><a class="anchor" id="author--contact"></a>Author & Contact</h2>
+
+**Omkar Kotkar**  
+Data Analyst  
+📧 Email: kotkaromkar988@gmail.com   
+🔗 [LinkedIn](https://www.linkedin.com/in/omkar-kotkar/)  
+
 
 
